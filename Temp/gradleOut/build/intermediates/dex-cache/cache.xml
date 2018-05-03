@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mustafa Alhajjaj\Desktop\University\CSC-260-D01-2018SP Object Oriented Design\Projects\VR games\GitHub\Final Project\Temp\gradleOut\libs\libprotobuf-java-nano.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fcd53f117550c58490f29c2e27afca051626260d">
+        <dex dex="C:\Users\Mustafa Alhajjaj\Desktop\University\CSC-260-D01-2018SP Object Oriented Design\Projects\VR games\GitHub\Final Project\Temp\gradleOut\build\intermediates\pre-dexed\release\libprotobuf-java-nano_a6ebde04d9b465f080de61d768fb03736a3cc296.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mustafa Alhajjaj\Desktop\University\CSC-260-D01-2018SP Object Oriented Design\Projects\VR games\GitHub\Final Project\Temp\gradleOut\libs\unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="1fe606101cdb82d4a24700b3b5a5dfe9581db921">
+        <dex dex="C:\Users\Mustafa Alhajjaj\Desktop\University\CSC-260-D01-2018SP Object Oriented Design\Projects\VR games\GitHub\Final Project\Temp\gradleOut\build\intermediates\pre-dexed\release\unity-classes_d9e8329f1a5ed5eee6f8ef6faebe3cdb9f969165.jar" />
+    </item>
+
+</items>
